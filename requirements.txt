@@ -1,0 +1,7 @@
+streamlit
+pandas
+openai==0.28
+requests
+feedparser
+pillow
+easyocr
